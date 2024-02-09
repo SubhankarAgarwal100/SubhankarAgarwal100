@@ -14,9 +14,9 @@
 <br><br>
 ## 🌐 Connect With Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhankar-agarwal-102700251/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/user0110T/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/cn_Rage/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sdrzs/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)<br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/sumitchakraborty955/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 
 <br>
